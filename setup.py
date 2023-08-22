@@ -23,6 +23,6 @@ setup(
         "License :: OSI Approved :: GPL-3.0 License",
         "Programming Language :: Python :: 3",
     ],
-    py_modules=["chatBot"],
-    entry_points={"console_scripts": ["chatBot=chatBot:main"]},
+    py_modules=["chatbotdemo"],
+    entry_points={"console_scripts": ["chatbotdemo=chatbotdemo:main"]},
 )
