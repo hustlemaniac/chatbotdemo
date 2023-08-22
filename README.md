@@ -1,9 +1,9 @@
 - Chatbot services using Langchain<br>
 - Dependencies<br>
-    - openai 
-    - chromadb 
-    - langchain 
-    - tiktoken
-- To run in the terminal
-<code>pip install git+https://github.com/hustlemaniac/chatbotdemo.git</code>
+    - openai <br>
+    - chromadb <br>
+    - langchain <br>
+    - tiktoken<br>
+- To run in the terminal<br>
+<code>pip install git+https://github.com/hustlemaniac/chatbotdemo.git</code><br>
 <code>chatbotdemo OPEN_API_KEY</code>
